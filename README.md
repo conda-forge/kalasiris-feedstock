@@ -5,9 +5,13 @@ Home: http://github.com/rbeyer/kalasiris
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kalasiris-feedstock/blob/master/LICENSE.txt)
 
 Summary: A Python library to wrap functions and functionality for the Integrated Software for Imagers and Spectrometers (ISIS).
+
+Development: https://github.com/rbeyer/kalasiris
+
+Documentation: http://kalasiris.readthedocs.io/
 
 The kalasiris library wraps functions and functionality for the
 Integrated Software for Imagers and Spectrometers (ISIS)
