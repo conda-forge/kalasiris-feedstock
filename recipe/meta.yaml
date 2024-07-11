@@ -1,5 +1,5 @@
 {% set name = "kalasiris" %}
-{% set version = "1.10.0" %}
+{% set version = "1.11.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: cfa1b480f63861192306a0e0c668172978dcc53de5f30496ae6e118900cddd8e
+  sha256: 40d4b0da973bd6c20399214ea5ee814624703fd338c1f8458130565af02d4ab9
 
 build:
   number: 0
